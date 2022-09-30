@@ -1,0 +1,27 @@
+.Counter{
+    width: 200px;
+    height: 200px;
+    border: black 3px solid;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+.counter_container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text {
+    margin-top: 150px;
+    border: red 2px solid;
+    width: 100px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn1{
+    margin-top: 200px;
+    margin-left: 20px;
+}
