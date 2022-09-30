@@ -10,6 +10,7 @@ function Apptest() {
   }
   return (
     <div className="app">
+      <h1>Counter</h1>
       <h1>{counter}</h1>
       <button onClick={handleIncrease}>văn minh</button>
       
